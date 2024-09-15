@@ -13,4 +13,4 @@ Penilaian tugas week 04 ini sedikit berbeda dari sebelumnya. Jadi week 04 ini ak
 - 3x push : 90
 - Lebih dari 3x push : 100
 ---------------------------------------------------------------------------------------------------------------------------------------
-Anggota yang paling dikit push akan mendapat hukuman menjelaskan materi week 04 di depan kelas sebelum kelas selesai. Akan tetapi orang tersebut akan mendapatkan nilai +5 kalau presentasinya lengkap. Goodluck
+Anggota yang paling dikit push akan mendapat hukuman menjelaskan materi week 04 di depan kelas sebelum kelas selesai. Akan tetapi orang tersebut bisa mendapatkan nilai 100 kalau presentasinya lengkap. Kalau tidak lengkap hanya akan mendapatkan nilai +5 . Goodluck
