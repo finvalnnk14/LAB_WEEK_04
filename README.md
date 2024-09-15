@@ -7,9 +7,9 @@ Aturan Games Week 04:
 3. Silahkan kerjakan assignment tugas week 04 secara berkelompok dan push ke github
 --------------------------------------------------------------------------------------------------------------------------------------
 Penilaian tugas week 04 ini sedikit berbeda dari sebelumnya. Jadi week 04 ini aku akan nilai berdasarkan anggota yang paling banyak push ke github
-1x push : 70
-2x push : 80
-3x push : 90
-Lebih dari 3x push : 100
+- 1x push : 70
+- 2x push : 80
+- 3x push : 90
+- Lebih dari 3x push : 100
 ---------------------------------------------------------------------------------------------------------------------------------------
 Anggota yang paling dikit push akan mendapat hukuman menjelaskan materi week 04 di depan kelas sebelum kelas selesai. Goodluck
