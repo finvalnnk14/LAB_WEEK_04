@@ -8,7 +8,7 @@ Aturan Games Week 04:
 4. Commit folder project atau template ke github baru boleh dilakukan pada saat hari h kelas. Bagi yang sudah melakukannya akan di DISKUALIFIKASI dalam permainan atau HANYA AKAN MENDAPATKAN NILAI MAKSIMAL 75. Akan tetapi boleh membuat repisitory terlebih dahulu dan pelajarin modul terlebih dahulu dan jika ingin mencoba mengerjakan modul waktu sekarang DIPERBOLEHKAN akan tetapi commit ke giithub nya waktu kelas lab.
 5. Boleh dilanjutkan di rumah kalau belum selesai, tapi kelompok yang sudah selesai di hari itu (Hari Kelas Lab pukul 00:00 *misalnya kelas hari selasa, jadi hari selasa pukul 00:00)auto dapat nilai 100. Dan bagi yang selesai saat kelas auto dapat 100, dapat nilai tambahan +20 (satu tugas +10, jadi bisa untuk dua tugas, nilai tersebut bisa untuk tambah nilai tugas yang kurang. Bisa dipilih mau ditambahin nilai +10 untuk tugas week berapa)
 --------------------------------------------------------------------------------------------------------------------------------------
-Penilaian tugas week 04 ini sedikit berbeda dari sebelumnya. Jadi week 04 ini aku akan nilai berdasarkan anggota yang paling banyak push ke github
+Penilaian tugas week 04 ini sedikit berbeda dari sebelumnya. Jadi week 04 ini aku akan nilai berdasarkan banyaknya push-an ke github
 - 1x push : 80
 - 2x push : 85
 - 3x push : 90
