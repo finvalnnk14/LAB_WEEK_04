@@ -9,7 +9,7 @@ import android.widget.TextView
 
 private const val TAB_CONTENT = "TAB_CONTENT"
 
-class CafeDetailFragment : Fragment() {
+class  CafeDetailFragment : Fragment() {
     private var content: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
